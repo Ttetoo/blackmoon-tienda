@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Polera Overlook",
+    "price": 19990,
+    "image": "https://dummyimage.com/450x300/212529/e0e0e0.png&text=BlackMoon"
+  },
+  {
+    "id": 2,
+    "name": "Polerón Astaroth",
+    "price": 29990,
+    "image": "https://dummyimage.com/450x300/212529/e0e0e0.png&text=BlackMoon"
+  },
+  {
+    "id": 3,
+    "name": "Gorro Baphomet",
+    "price": 14990,
+    "image": "https://dummyimage.com/450x300/212529/e0e0e0.png&text=BlackMoon"
+  },
+  {
+    "id": 4,
+    "name": "Polera Leviathan",
+    "price": 19990,
+    "image": "https://dummyimage.com/450x300/212529/e0e0e0.png&text=BlackMoon"
+  }
+]
